@@ -68,3 +68,6 @@ In XML layout:
 </table>
 
 **Note:** If your ```EditText``` has **android:maxLength** attribute but you haven't provide **app:fieldMaxLength** for the keyboard, a ```TextWatcher``` for that ```EditText``` will be called even when user taps on a key after reaching the max length.
+
+**Reference:**
+https://github.com/konaire/NumericKeyboard
